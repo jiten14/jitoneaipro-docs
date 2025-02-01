@@ -23,23 +23,34 @@ Built with flexibility in mind, **JitoneAi Pro** allows developers to enhance ex
 
 **AI-Powered Content Generation**
 
-![Jitone AI](https://raw.githubusercontent.com/jiten14/filamentphp.com/main/content/plugins/images/jitendriya-tripathy-jitone-ai.jpg)
+![AI Content Generator](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Text.jpg)
 
 Effortlessly generate high-quality text content using over 25+ AI-powered templates tailored for different use cases, including blog writing, social media posts, product descriptions, email drafts, and more. Customize the tone, style, and length of the generated content to suit your specific needs. Whether you need long-form articles or short, engaging snippets, JitoneAi Pro delivers fast and accurate AI-generated text directly within your FilamentPHP forms.
 
 **AI Image Generator**
+
+![AI Image Generator](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Image.jpg)
+
 Transform text descriptions into stunning visuals with the built-in AI image generator. With 25+ pre-defined templates designed for different use cases, you can generate unique and professional-quality images for blog posts, advertisements, product showcases, and social media content. Simply input a text prompt, select an image size, and let AI create the perfect visual for your project.
 
 **AI-Powered Audio Transcription**
+
+![AI Text to Speach](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Audio.jpg)
+
 Convert uploaded audio files into accurate, structured text in seconds. JitoneAi Pro’s transcription feature supports various audio formats and uses AI-driven speech recognition to deliver precise transcriptions. This is ideal for podcasters, content creators, and professionals who need to convert interviews, meetings, or lectures into editable text without manual effort.
 
 **Text-to-Audio Conversion**
+
+![AI Text to Speach](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Transcribe.jpg)
+
 Transform written content into natural-sounding AI-generated speech. Whether you need to create voiceovers for videos, audiobooks, or accessibility features, JitoneAi Pro’s text-to-audio conversion tool provides high-quality AI voices that bring your content to life. Select from different voice styles and languages to match your brand’s tone and audience preferences.
 
 **Advanced Text Modification Tools**
+
 Enhance your written content with a powerful set of AI-driven text transformation tools. Modify, refine, expand, shorten, summarize, translate, or correct grammar with a single click. This feature allows users to optimize existing content for readability, SEO, or engagement. Whether you need to rephrase text to improve clarity or simplify complex sentences, JitoneAi Pro ensures your content is polished and professional.
 
 **SEO Meta Description Generator**
+
 Automatically generate SEO-friendly meta descriptions for web pages, blog posts, and product listings. By analyzing your content, JitoneAi Pro crafts compelling and keyword-rich descriptions that improve search engine visibility and click-through rates. Save time on manual meta tag writing and let AI generate optimized descriptions that align with best SEO practices.
 
 These features collectively empower developers, marketers, and content creators to seamlessly integrate AI into their FilamentPHP applications, making content creation, optimization, and automation more efficient than ever.

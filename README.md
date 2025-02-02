@@ -6,42 +6,29 @@ With over 25 pre-built AI content templates, dynamic text enhancement tools, and
 
 Built with flexibility in mind, **JitoneAi Pro** allows developers to enhance existing Filament form fields with AI or add dedicated AI-powered fields tailored for specific use cases. Whether you need AI-assisted text input, automated image generation, or advanced audio processing, JitoneAi Pro offers a seamless, plug-and-play experience that takes FilamentPHP applications to the next level.
 
-## Table of Contents
-- [Key Features](#key-features)
-- [About the License](#about-the-license)
-- [How to Use](#how-to-use)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Configuration](#configuration)
-  - [Adding AI to Built-in Filament Form Fields](#adding-ai-to-built-in-filament-form-fields)
-  - [Using Dedicated AI Fields](#using-dedicated-ai-fields)
-  - [Additional AI-Enabled Fields](#additional-ai-enabled-fields)
-- [Usage for End-Users](#usage-for-end-users)
-- [Support](#support)
-
 ## Key Features
-
-### AI-Powered Content Generation
 
 ![AI Content Generator](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Text.jpg)
 
-Effortlessly generate high-quality text content using over 25+ AI-powered templates tailored for different use cases, including blog writing, social media posts, product descriptions, email drafts, and more. Customize the tone, style, and length of the generated content to suit your specific needs. Whether you need long-form articles or short, engaging snippets, JitoneAi Pro delivers fast and accurate AI-generated text directly within your FilamentPHP forms.
+### AI-Powered Content Generation
 
-### AI Image Generator
+Effortlessly generate high-quality text content using over 25+ AI-powered templates tailored for different use cases, including blog writing, social media posts, product descriptions, email drafts, and more. Customize the tone, style, and length of the generated content to suit your specific needs. Whether you need long-form articles or short, engaging snippets, JitoneAi Pro delivers fast and accurate AI-generated text directly within your FilamentPHP forms.
 
 ![AI Image Generator](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Image.jpg)
 
+### AI Image Generator
+
 Transform text descriptions into stunning visuals with the built-in AI image generator. With 25+ pre-defined templates designed for different use cases, you can generate unique and professional-quality images for blog posts, advertisements, product showcases, and social media content. Simply input a text prompt, select an image size, and let AI create the perfect visual for your project.
+
+![AI Text to Speach](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Transcribe.jpg)
 
 ### AI-Powered Audio Transcription
 
-![AI Text to Speach](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Audio.jpg)
-
 Convert uploaded audio files into accurate, structured text in seconds. JitoneAi Pro’s transcription feature supports various audio formats and uses AI-driven speech recognition to deliver precise transcriptions. This is ideal for podcasters, content creators, and professionals who need to convert interviews, meetings, or lectures into editable text without manual effort.
 
-### Text-to-Audio Conversion
+![AI Text to Speach](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Generate-Audio.jpg)
 
-![AI Text to Speach](https://raw.githubusercontent.com/jiten14/jitoneaipro-docs/main/images/Transcribe.jpg)
+### Text-to-Audio Conversion
 
 Transform written content into natural-sounding AI-generated speech. Whether you need to create voiceovers for videos, audiobooks, or accessibility features, JitoneAi Pro’s text-to-audio conversion tool provides high-quality AI voices that bring your content to life. Select from different voice styles and languages to match your brand’s tone and audience preferences.
 

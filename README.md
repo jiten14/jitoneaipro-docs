@@ -260,7 +260,7 @@ Stay tuned — these updates are designed to give you greater control, enhanced 
 
 ## How to Buy
 
-Ready to integrate AI into your Laravel workflows? Simply click the **Buy for $49** (The updated price is $19, as reflected on the checkout page.) button at the top of this page — you’ll be redirected to our secure LemonSqueezy checkout. Once your one-time payment is completed, you’ll instantly receive the downloadable ZIP package via email. From there, follow the "How to Use" section to install and activate JitoneAi Pro in your project. It’s fast, simple, and powerful.
+Ready to integrate AI into your Laravel workflows? Simply click the **Buy for $49** (The updated price is $19, as reflected on the checkout page) button at the top of [this page](https://filamentphp.com/plugins/jitendriya-tripathy-jitoneai-pro) — you’ll be redirected to our secure LemonSqueezy checkout. Once your one-time payment is completed, you’ll instantly receive the downloadable ZIP package via email. From there, follow the "How to Use" section to install and activate JitoneAi Pro in your project. It’s fast, simple, and powerful.
 
 ## Support
 

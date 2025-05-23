@@ -6,7 +6,7 @@ Packed with over **25 ready-to-use AI templates**, smart content editing tools, 
 
 Built for flexibility, **JitoneAi Pro** lets you upgrade any existing form field with intelligent AI capabilities or introduce dedicated fields for highly specific needs. Whether it's guided text inputs, auto-generated visuals, or audio interactions, the experience is smooth, efficient, and fully embedded in your **Laravel** ecosystem.
 
-**Try JitoneAi Pro and feel the difference — AI that works where you build.**
+**[Try JitoneAi Pro and feel the difference — AI that works where you build.](https://filamentphp.com/plugins/jitendriya-tripathy-jitoneai-pro)**
 
 ## New Pricing — Greater Value, Same Powerful Features
 
@@ -19,7 +19,7 @@ Our goal has always been to make advanced AI capabilities accessible to develope
 
 If you've been considering adding JitoneAi Pro to your workflow, there's never been a better time.
 
-**Get started today — build smarter with JitoneAi Pro.**
+**[Get started today — build smarter with JitoneAi Pro.](https://filamentphp.com/plugins/jitendriya-tripathy-jitoneai-pro)**
 
 ## Key Features
 

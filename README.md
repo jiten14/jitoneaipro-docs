@@ -1,10 +1,25 @@
 # JitoneAi Pro Documentation
 
-Supercharge your FilamentPHP applications with **JitoneAi Pro**, the ultimate AI-powered premium add-on designed to revolutionize form-based workflows. Whether you're a developer, content creator, or business owner, JitoneAi Pro seamlessly integrates advanced AI functionalities directly into your Filament forms, enabling effortless content generation, SEO optimization, transcription, text-to-audio conversion, and AI-driven image creation—all within your Laravel projects.
+**Elevate your FilamentPHP projects with _JitoneAi Pro_ — a thoughtfully crafted AI-powered add-on built to simplify and enrich your form-driven workflows.** Whether you're a developer building scalable applications, a content creator refining digital assets, or a business owner seeking operational efficiency, **JitoneAi Pro** brings the power of AI directly into your Filament forms — making content creation, SEO refinement, transcription, text-to-audio conversion, and AI-generated images intuitive and seamless.
 
-With over 25 pre-built AI content templates, dynamic text enhancement tools, and seamless integration for OpenAI-powered AI fields, **JitoneAi Pro** empowers users to create, modify, and optimize content with ease. From generating SEO-friendly meta descriptions to transforming audio files into text or converting text into speech, this powerful add-on enhances productivity and streamlines AI-driven automation.
+Packed with over **25 ready-to-use AI templates**, smart content editing tools, and native integration with **OpenAI APIs**, **JitoneAi Pro** enables you to generate, enhance, and fine-tune content effortlessly. Need to craft compelling meta descriptions? Convert speech to text or text to voice? Generate original images? It's all just a few clicks away — no switching tools, no extra setup.
 
-Built with flexibility in mind, **JitoneAi Pro** allows developers to enhance existing Filament form fields with AI or add dedicated AI-powered fields tailored for specific use cases. Whether you need AI-assisted text input, automated image generation, or advanced audio processing, JitoneAi Pro offers a seamless, plug-and-play experience that takes FilamentPHP applications to the next level.
+Built for flexibility, **JitoneAi Pro** lets you upgrade any existing form field with intelligent AI capabilities or introduce dedicated fields for highly specific needs. Whether it's guided text inputs, auto-generated visuals, or audio interactions, the experience is smooth, efficient, and fully embedded in your **Laravel** ecosystem.
+
+**Try JitoneAi Pro and feel the difference — AI that works where you build.**
+
+## New Pricing — Greater Value, Same Powerful Features
+
+We’ve listened to our users and are excited to announce a **significant price drop** for **JitoneAi Pro**.
+
+- **Previous Price:** $49 (one-time payment)  
+- **New Price:** **$19** (one-time payment)
+
+Our goal has always been to make advanced AI capabilities accessible to developers, creators, and businesses of all sizes. By reducing the price while maintaining **lifetime updates**, **unlimited usage**, and **full feature access**, we’re making it easier than ever to bring intelligent automation into your Laravel applications.
+
+If you've been considering adding JitoneAi Pro to your workflow, there's never been a better time.
+
+**Get started today — build smarter with JitoneAi Pro.**
 
 ## Key Features
 
@@ -231,6 +246,21 @@ AIMeta::make('seo_meta')
 
 3. **Convert Text to Audio**: Users can convert written text into audio format.
 4. **SEO Meta Description**: Users can generate SEO meta descriptions from long-form content.
+
+### 🚀 Upcoming Enhancements — What’s Next for JitoneAi Pro
+
+We’re continuously improving JitoneAi Pro to deliver even more flexibility and power to your FilamentPHP applications. Here’s a glimpse of what’s coming in the next update:
+
+1. **Multi-Model AI Support** *(Coming Soon)*  
+   Developers will be able to configure and switch between multiple AI platforms such as **Grok AI**, **Claude (Anthropic)**, **Gemini AI**, and others.  
+   - Selection will be easily managed via the package’s `config` file  
+   - Enables you to leverage different AI models based on your project's specific needs
+
+Stay tuned — these updates are designed to give you greater control, enhanced performance, and more choice in how you build with AI.
+
+## How to Buy
+
+Ready to integrate AI into your Laravel workflows? Simply click the **Buy for $49** (The updated price is $19, as reflected on the checkout page.) button at the top of this page — you’ll be redirected to our secure LemonSqueezy checkout. Once your one-time payment is completed, you’ll instantly receive the downloadable ZIP package via email. From there, follow the "How to Use" section to install and activate JitoneAi Pro in your project. It’s fast, simple, and powerful.
 
 ## Support
 
